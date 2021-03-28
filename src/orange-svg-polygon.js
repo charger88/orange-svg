@@ -4,7 +4,7 @@ class OrangeSVGPolygon extends OrangeSVGAbstractElement {
 
   /**
    *
-   * @param {numeric[][]} coordinates Format example: "[[0,1], [1,1], [1,0], [0,0]]" (square)
+   * @param {[number, number][]} coordinates Format example: "[[0,1], [1,1], [1,0], [0,0]]" (square)
    * @param {?string} color
    * @param {?opacity} opacity
    */

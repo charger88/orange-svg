@@ -1,6 +1,6 @@
 {
   "name": "orange-svg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Orange.SVG - library for working with colors",
   "main": "index.js",
   "scripts": {
